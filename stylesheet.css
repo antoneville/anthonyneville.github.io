@@ -154,6 +154,11 @@ body {
     display: none;
 }
 
+.fix-img {
+    width: 250px;
+    height: 200px;
+}
+
 .right {
     float: right;
 }
