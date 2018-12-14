@@ -1,0 +1,212 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-color: whitesmoke; 
+}
+
+.slide-width {
+    width: 50%;
+}
+
+.test {
+    background-color: purple;
+}
+
+#logo {
+    margin-left: 25%;
+    width: 15%;
+}
+
+.move {
+    margin-left: 1%;
+}
+
+.fill {
+    min-height: 100%;
+    height: 100%;
+}
+
+.font-pacifico {
+    font-family: 'Pacifico', cursive;
+}
+
+.font-gamja {
+    font-family: 'Gamja Flower', cursive;
+}
+
+.blue {
+    color: #5136FF;
+}
+
+.move-r {
+    margin-left: 65%;
+}
+
+.margin-t {
+    margin-top: 5%;
+}
+
+.jumbotron {
+    background-color:transparent !important; 
+}
+
+.white {
+    color: whitesmoke;
+}
+
+.white-bg {
+    background-color: whitesmoke;
+}
+
+.button {
+    width: 5%;
+    height: auto;
+    margin-left: 47.5%;
+    margin-right: 47.5%;
+}
+
+.right {
+    margin-left: 15%;
+}
+
+.left-screen {
+    float: left;
+}
+
+.right-screen {
+    float: right;
+}
+
+.margin-r {
+    margin-right: 25%;
+}
+
+.txt-size-nav {
+    font-size: 140%;
+    line-height: 60%;
+}
+
+.push-down {
+    margin-top: 5%;
+}
+
+.fredoka {
+    font-family: 'Fredoka One', cursive;
+}
+
+
+.nav-border {
+    border: 1px solid #5136FF;
+    border-radius: 12px;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 4%;
+    padding-right: 4%;
+}
+
+.gradient-back {
+    background-image: linear-gradient(to bottom left, whitesmoke, #d1e2ff);
+}
+
+#social-nav {
+    width: 25%;
+    float: right;
+}
+
+.social {
+    width: 30%;
+    height: auto;
+}
+
+.social-email {
+    width: 20%;
+    height: auto;
+    margin-left: 5%;
+    margin-bottom: 5%;
+}
+
+.margin-b {
+    margin-bottom: 5%;
+}
+
+.email-border {
+    border: solid #5136FF 1px;
+}
+
+.clear {
+    clear: both;
+}
+
+.padding-button {
+    padding: 2%;
+}
+
+.email-align {
+    float: left;
+    clear: both;
+    width: 20%;
+    margin-bottom: 1%;
+}
+
+#subject, #message, #submit {
+    display: none;
+}
+
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
+#score-keep-img {
+    width: 100%;
+    height: auto;
+}
+
+#email-success {
+    display: none;
+}
+
+.carousel-control-prev-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%235136FF' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E") !important;
+}
+   
+.carousel-control-next-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%235136FF' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
+}
+
+.small-screen {
+    width: 50%;
+    height: auto;
+}
+
+.phone-screen {
+    width: 30%;
+    height: auto;
+}
+
+.test {
+    color: #5136FF;
+}
+
+.forty {
+    width: 40%;
+}
+
+.forty-img {
+    width: 40%;
+    height: auto;
+}
+
+.full-img {
+    width: 100%;
+    height: auto;
+}
+
+.margin-s {
+    margin: 1%;
+}
